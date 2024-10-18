@@ -1,6 +1,6 @@
 # Generative-Paintings
 
-This set consists of 4 sets of fileter images
+This set consists of 4 sets of filter images
 
 <h3> download processing </h3>
 To use these filters it is necessary to download processing
